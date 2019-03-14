@@ -1,4 +1,5 @@
 {
+  "rek" : {"status":200,"message":"Mail Sent successfully"},
   "users": [
     {
     "id": 1,
